@@ -1,3 +1,4 @@
-# netflix-clone
+# Netflix clone
+
 NOT RESPONSIVE
 NOT INTERACTIVE
