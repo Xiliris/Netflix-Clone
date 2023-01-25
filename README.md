@@ -1,4 +1,4 @@
 # Netflix clone
-
-### NOT RESPONSIVE
-### NOT INTERACTIVE
+### PC Version 
+### Not Responsive
+### Not Interactive
